@@ -1013,3 +1013,4 @@ clippy.Queue.prototype = {
     }
 };
 
+window.clippy = clippy;
