@@ -116,3 +116,5 @@ clippy.soundsReady = function (name, data) {
 
     dfd.resolve(data);
 };
+
+window.clippy = clippy;
